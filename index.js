@@ -1,4 +1,4 @@
-var driver
+var driver = {}
 function updateDriverWithKeyAndValue() {
-  driver :
+  driver : 
 }
