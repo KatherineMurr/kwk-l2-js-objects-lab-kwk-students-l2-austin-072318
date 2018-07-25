@@ -1,4 +1,4 @@
 var driver = {}
 function updateDriverWithKeyAndValue(driver,key, value) {
-  return driver 
+  return Object.assign({}, obj);
 }
